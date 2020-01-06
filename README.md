@@ -1,6 +1,10 @@
 
 
+# Deploy
 
+The easiest way to deploy this is to push the button:
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 # Git2Gus Application
 
 A GitHub application to keep issues in sync with Salesforce's Agile Accelerator.
