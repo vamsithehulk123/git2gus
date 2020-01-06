@@ -1,0 +1,9 @@
+{
+    "name": "Getting Started No Code",
+    "description": "A basic app showing Heroku, and Heroku Connect, supporting a no-local-dev Getting Started tutorial on Dev Center",
+    "logo": "",
+    "website": "",
+    "repository": "https://github.com/vamsithehulk123/git2gus",
+    
+    "addons": ["heroku-postgresql", "herokuconnect:demo"]
+}
